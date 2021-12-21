@@ -1,8 +1,8 @@
-### Olá, Eu sou o Thiago Zardo 👋
+### <h1>Olá, Eu sou o Thiago Zardo 👋</h1> 
 
-- 🔭 Hoje trabalho com desenvolvimento front-end 
-- 🌱 Estudo desenvolvimento web na Trybe
-- 👯 Entre em contato comigo pelo e-mail: thiago.artevisual@gmail.com
+- <h3>🔭 Hoje trabalho com desenvolvimento front-end</h3> 
+- <h3>🌱 Estudo desenvolvimento web na Trybe</h3> 
+- <h3>👯 Entre em contato comigo pelo e-mail: thiago.artevisual@gmail.com</h3> 
 
 <div align="center">
   <a href="https://github.com/ThiagoZardo">
