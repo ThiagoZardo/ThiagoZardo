@@ -1,10 +1,5 @@
 ### Olá, Eu sou o Thiago Zardo 👋
 
-
-**ThiagoZardo/ThiagoZardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com desenvolvimento front-end 
 - 🌱 Estudo desenvolvimento web na Trybe
 - 👯 Entre em contato comigo pelo e-mail: thiago.artevisual@gmail.com
