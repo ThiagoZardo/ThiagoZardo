@@ -1,4 +1,5 @@
-## <h1>Olá, eu sou o Thiago Jarilho Zardo</h1>
+<h1>Olá, eu sou o Thiago Jarilho Zardo</h1>
+<h2> Bem vindo ao meu GitHub! <h2>
 <h4>👨‍💻 Trabalho com front-end</h4>
 <h4>👨‍🎓 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a> </h4>
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
