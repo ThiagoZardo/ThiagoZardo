@@ -1,6 +1,6 @@
 ## <h1>Olá, eu sou o Thiago Jarilho Zardo,</h1>
 
-<div style="display: inline_block" align="center">
+<div align="center" class="container">
   <a href="https://github.com/thiagozardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagozardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
