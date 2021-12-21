@@ -1,17 +1,17 @@
 <h1>Olá, eu sou o Thiago Jarilho Zardo</h1>
 <h2> Bem vindo ao meu GitHub! <h2>
-<h4>👨‍💻 Trabalho com front-end</h4>
-<h4>👨‍🎓 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a> </h4>
-<h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
-<h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
-<h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a></h4>
-
 
 <div align="center" class="container">
   <a href="https://github.com/thiagozardo">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagozardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <h4>👨‍💻 Trabalho com front-end</h4>
+<h4>👨‍🎓 Sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a> </h4>
+<h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
+<h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
+<h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a></h4>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
