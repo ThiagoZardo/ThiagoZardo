@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/thiago-jarilho-zardo-97446b17a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
     
- ![Snake animation](https://github.com/ThiagoZardo/ThiagoZardo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thiagozardo/thiagozardo/blob/output/github-contribution-grid-snake.svg)
