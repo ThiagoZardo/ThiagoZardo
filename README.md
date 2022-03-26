@@ -7,8 +7,8 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <h4>👨‍💻 Trabalho com front-end</h4>
-<h4>👨‍🎓 Sou estudante de desenvolvimento web na <span><a href="https://www.betrybe.com/">Trybe</a></span></h4>
+<h4>👨‍💻 Desenvolvedor Front-End</h4>
+<h4>👨‍🎓 Sou estudante de desenvolvimento web na Trybe.
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
 <h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
 <h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a></h4>
