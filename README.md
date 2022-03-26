@@ -8,7 +8,7 @@
 </div>
   
 <h4>👨‍💻 Desenvolvedor Front-End</h4>
-<h4>👨‍🎓 Sou estudante de desenvolvimento web na Trybe.
+<h4>👨‍🎓 Estudo desenvolvimento web na Trybe.
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
 <h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
 <h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a></h4>
