@@ -34,6 +34,10 @@
   
   <div>
     <h3>Projetos desenvolvidos com os fundamentos do desenvolvimento web</h3>
+    <a href="https://github.com/ThiagoZardo/projeto-pixel-art" target="_blank">Pixel Art</a>
+    <a href="https://github.com/ThiagoZardo/projeto-to-do-list" target="_blank">Todo List</a>
+    <a href="https://github.com/ThiagoZardo/projeto-zoo-functions" target="_blank">Zoo Functions</a>
+    <a href="https://github.com/ThiagoZardo/projeto-testes-unitarios" target="_blank">Testes Unitários</a>
     <a href="https://github.com/ThiagoZardo/shopping_cart" target="_blank">Shopping Cart</a>
   </div>
   
