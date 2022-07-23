@@ -29,10 +29,13 @@
   <img align="center" alt="Thiago-mySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Thiago-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="Thiago-Heroku" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-          
-  
-  
+           
 </div>
+  
+  <div>
+    <h3>Projetos desenvolvidos com os fundamentos do desenvolvimento web</h3>
+    <a href="https://github.com/ThiagoZardo/shopping_cart" target="_blank">Shopping Cart</a>
+  </div>
   
   ##
  
