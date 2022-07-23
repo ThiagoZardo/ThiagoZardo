@@ -7,7 +7,7 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<h4>👨‍💻 Desenvolvedor Front-End</h4>
+<h4>👨‍💻 Desenvolvedor FullStack em formação</h4>
 <h4>👨‍🎓 Estudo desenvolvimento web na Trybe.
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
 <h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
@@ -28,6 +28,9 @@
   <img align="center" alt="Thiago-mySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Thiago-mySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Thiago-sequelize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+  <img align="center" alt="Thiago-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+          
+  
   
 
 
