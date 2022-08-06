@@ -92,6 +92,7 @@
     <a href="https://github.com/ThiagoZardo/projeto-testes-unitarios" target="_blank">Testes Unitários</a> </br>
     <a href="https://github.com/ThiagoZardo/shopping_cart" target="_blank">Shopping Cart</a> </br>
   </div>
+ ---
   
   <div>
     <h3>Projetos Front-end</h3>
@@ -103,7 +104,8 @@
     <a href="https://github.com/ThiagoZardo/project-trivia">Jogo da Trivia</a> </br>
     <a href="https://github.com/ThiagoZardo/project-starwars-planets-search">Star Wars Planet Filters</a> </br>
   </div>
-  
+--
+
   <div>
     <h3>Projetos Back-end</h3>
     <a href="https://github.com/ThiagoZardo/project-docker-todo-list">Docker Todo-list</a> </br>
@@ -111,7 +113,7 @@
     <a href="https://github.com/ThiagoZardo/project-one-for-all">One for All</a> </br>
     <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
   </div>
-  
+ --
   ##
  
 <div> 
