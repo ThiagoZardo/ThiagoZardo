@@ -20,7 +20,7 @@
     <img align="center" alt="Thiago-Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
     
   <a href="https://code.visualstudio.com/">
-    <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+    <img align="center" alt="Thiago-VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
     
   <a href="https://www.vivaolinux.com.br/linux">
     <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
@@ -64,17 +64,17 @@
   <a href="https://redux.js.org/">
     <img align="center" alt="Thiago-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
     
-  <a href="http://expressjs.com/pt-br/">
-    <img align="center" alt="Thiago-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
-    
   <a href="https://nodejs.org/en/">
-    <img align="center" alt="Thiago-Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>    
+    <img align="center" alt="Thiago-Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>  
+    
+  <a href="http://expressjs.com/pt-br/">
+    <img align="center" alt="Thiago-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>  
   
   <a href="https://www.mysql.com/">
-    <img align="center" alt="Thiago-mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <img align="center" alt="Thiago-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   
   <a href="https://sequelize.org/">
-    <img align="center" alt="Thiago-sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /></a>
+    <img align="center" alt="Thiago-Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /></a>
   
   <a href="https://id.heroku.com/">
     <img align="center" alt="Thiago-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
