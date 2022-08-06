@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
   <h4>👨🏻‍💻 Técnologias Aprendidas</h4>
   <a href="https://www.vivaolinux.com.br/linux">
-    <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+    <img align="center" alt="Thiago-Linux" style="margin-button: 5px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   
   <a href="https://wordpress.com/pt-br/">
     <img align="center" alt="Thiago-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
