@@ -25,8 +25,11 @@
   <a href="https://www.vivaolinux.com.br/linux">
     <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   
-  <a href="https://wordpress.com/pt-br/">
-    <img align="center" alt="Thiago-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://git-scm.com/">
+    <img align="center" alt="Thiago-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
+    
+  <a href="https://devdocs.io/">
+    <img align="center" alt="Thiago-Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Thiago-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -54,9 +57,18 @@
   
   <a href="https://reactjs.org/">
     <img align="center" alt="Thiago-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  
+    
+  <a href="https://reactrouter.com/">
+    <img align="center" alt="Thiago-React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
+   
   <a href="https://redux.js.org/">
     <img align="center" alt="Thiago-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
+    
+  <a href="http://expressjs.com/pt-br/">
+    <img align="center" alt="Thiago-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
+    
+  <a href="https://nodejs.org/en/">
+    <img align="center" alt="Thiago-Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>    
   
   <a href="https://www.mysql.com/">
     <img align="center" alt="Thiago-mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
