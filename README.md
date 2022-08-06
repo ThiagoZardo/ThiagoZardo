@@ -93,7 +93,7 @@
     <a href="https://github.com/ThiagoZardo/shopping_cart" target="_blank">Shopping Cart</a> </br>
   </div>
   
-    <div>
+  <div>
     <h3>Projetos Front-end</h3>
     <a href="https://github.com/ThiagoZardo/project-solar-sytem">Solar System</a> </br>
     <a href="https://github.com/ThiagoZardo/project-super-trunfo">Super Trunfo</a> </br>
