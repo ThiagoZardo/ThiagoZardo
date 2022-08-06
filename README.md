@@ -15,11 +15,18 @@
   
 <div style="display: inline_block"><br>
   <h4>👨🏻‍💻 Técnologias Aprendidas</h4>
-  <a href="https://www.vivaolinux.com.br/linux" target="_blank">
-    <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank" /></a>
-  <img align="center" alt="Thiago-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img align="center" alt="Thiago-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Thiago-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://www.vivaolinux.com.br/linux">
+    <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  
+  <a href="https://wordpress.com/pt-br/">
+    <img align="center" alt="Thiago-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img align="center" alt="Thiago-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  
+  <a href="https://www.w3schools.com/css/">
+    <img align="center" alt="Thiago-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  
   <img align="center" alt="Thiago-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Thiago-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img align="center" alt="Thiago-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
