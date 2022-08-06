@@ -94,7 +94,7 @@
   </div>
  
   <div>
-    <h3>Projetos Front-end</h3>
+    <h3>Projetos Front-End</h3>
     <a href="https://github.com/ThiagoZardo/project-solar-sytem">Solar System</a> </br>
     <a href="https://github.com/ThiagoZardo/project-super-trunfo">Super Trunfo</a> </br>
     <a href="https://github.com/ThiagoZardo/project-trybe-tunes">Trybe Tunes</a> </br>
@@ -105,11 +105,15 @@
   </div>
 
   <div>
-    <h3>Projetos Back-end</h3>
+    <h3>Projetos Back-End</h3>
     <a href="https://github.com/ThiagoZardo/project-docker-todo-list">Docker Todo-list</a> </br>
     <a href="https://github.com/ThiagoZardo/project-all-for-one">All for One</a> </br>
     <a href="https://github.com/ThiagoZardo/project-one-for-all">One for All</a> </br>
     <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-store-manager">Store Manager</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-store-manager">Blogs API</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-store-manager">Stranger Things Back-End</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-store-manager">Stranger Things Front-End</a> </br>
   </div>
  
  <br>
