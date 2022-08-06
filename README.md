@@ -85,12 +85,23 @@
 </div>
   
   <div>
-    <h3>Projetos desenvolvidos com os fundamentos do desenvolvimento web</h3>
+    <h3>Projetos fundamentos</h3>
     <a href="https://github.com/ThiagoZardo/projeto-pixel-art" target="_blank">Pixel Art</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-to-do-list" target="_blank">Todo List</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-zoo-functions" target="_blank">Zoo Functions</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-testes-unitarios" target="_blank">Testes Unitários</a> </br>
     <a href="https://github.com/ThiagoZardo/shopping_cart" target="_blank">Shopping Cart</a> </br>
+  </div>
+  
+    <div>
+    <h3>Projetos Front-end</h3>
+    <a href="https://github.com/ThiagoZardo/project-solar-sytem">Solar System</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-super-trunfo">Super Trunfo</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-trybe-tunes">Trybe Tunes</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-React-Tests-Library">React RestTesting Library</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-trybe-wallet">Trybe Wallet</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-trivia">Jogo da Trivia</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-starwars-planets-search">Star Wars Planet Filters</a> </br>
   </div>
   
   ##
