@@ -111,9 +111,10 @@
     <a href="https://github.com/ThiagoZardo/project-one-for-all">One for All</a> </br>
     <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
     <a href="https://github.com/ThiagoZardo/project-store-manager">Store Manager</a> </br>
-    <a href="https://github.com/ThiagoZardo/project-store-manager">Blogs API</a> </br>
-    <a href="https://github.com/ThiagoZardo/project-store-manager">Stranger Things Back-End</a> </br>
-    <a href="https://github.com/ThiagoZardo/project-store-manager">Stranger Things Front-End</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-blogs-api">Blogs API</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-stranger-things-front">Stranger Things Front-End</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-stranger-things-back">Stranger Things Back-End</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-trybesmith">TrybeSmith</a> </br>
   </div>
  
  <br>
