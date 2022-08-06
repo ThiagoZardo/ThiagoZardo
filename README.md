@@ -14,7 +14,12 @@
 <h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a></h4>
   
 <div style="display: inline_block"><br>
-  <h4>👨🏻‍💻 Técnologias Aprendidas</h4>
+  <h4>👨🏻‍💻 Skills</h4>
+  
+  <a href="https://www.sublimetext.com/"><img align="center" alt="Thiago-Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
+    
+  <a href="https://code.visualstudio.com/"><img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+    
   <a href="https://www.vivaolinux.com.br/linux">
     <img align="center" alt="Thiago-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
   
