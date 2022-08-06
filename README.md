@@ -85,7 +85,7 @@
 </div>
   
   <div>
-    <h3>Projetos fundamentos</h3>
+    <h3>Projetos Fundamentos</h3>
     <a href="https://github.com/ThiagoZardo/projeto-pixel-art" target="_blank">Pixel Art</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-to-do-list" target="_blank">Todo List</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-zoo-functions" target="_blank">Zoo Functions</a> </br>
