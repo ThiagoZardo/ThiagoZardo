@@ -27,14 +27,41 @@
   <a href="https://www.w3schools.com/css/">
     <img align="center" alt="Thiago-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   
-  <img align="center" alt="Thiago-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Thiago-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img align="center" alt="Thiago-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Thiago-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" alt="Thiago-mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Thiago-sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img align="center" alt="Thiago-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img align="center" alt="Thiago-TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" alt="Thiago-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  
+  <a href="https://jestjs.io">
+    <img align="center" alt="Thiago-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /></a>
+  
+  <a href="https://testing-library.com/">
+    <img align="center" alt="Thiago-RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" /></a>
+    
+  <a href="https://mochajs.org/">
+    <img align="center" alt="Thiago-Mocha" src ="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" /></a>
+  
+  <a href="https://www.chaijs.com/">
+    <img align="center" alt="Thiago-Chai" src ="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" /></a>
+  
+  <a href="https://sinonjs.org/">
+    <img align="center" alt="Thiago-Sinon" src ="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" /></a>
+  
+  <a href="https://reactjs.org/">
+    <img align="center" alt="Thiago-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  
+  <a href="https://redux.js.org/">
+    <img align="center" alt="Thiago-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
+  
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="Thiago-mySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  
+  <a href="https://sequelize.org/">
+    <img align="center" alt="Thiago-sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /></a>
+  
+  <a href="https://id.heroku.com/">
+    <img align="center" alt="Thiago-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" alt="Thiago-TypeScript" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
            
 </div>
   
