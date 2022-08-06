@@ -104,6 +104,14 @@
     <a href="https://github.com/ThiagoZardo/project-starwars-planets-search">Star Wars Planet Filters</a> </br>
   </div>
   
+  <div>
+    <h3>Projetos Back-end</h3>
+    <a href="https://github.com/ThiagoZardo/project-docker-todo-list">Docker Todo-list</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-all-for-one">All for One</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-one-for-all">One for All</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
+  </div>
+  
   ##
  
 <div> 
