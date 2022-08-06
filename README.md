@@ -112,6 +112,8 @@
     <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
   </div>
  
+ <br>
+ <h3>Midias Sociais</h3>
 <div> 
   <a href="https://www.youtube.com/channel/UCOFr9Imywu0Mm55mljEpcCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thiago_jarilho_zardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
