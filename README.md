@@ -104,7 +104,7 @@
     <a href="https://github.com/ThiagoZardo/project-trivia">Jogo da Trivia</a> </br>
     <a href="https://github.com/ThiagoZardo/project-starwars-planets-search">Star Wars Planet Filters</a> </br>
   </div>
---
+---
 
   <div>
     <h3>Projetos Back-end</h3>
@@ -113,8 +113,7 @@
     <a href="https://github.com/ThiagoZardo/project-one-for-all">One for All</a> </br>
     <a href="https://github.com/ThiagoZardo/project-talker-manager">Talker Manager</a> </br>
   </div>
- --
-  ##
+ ---
  
 <div> 
   <a href="https://www.youtube.com/channel/UCOFr9Imywu0Mm55mljEpcCQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
