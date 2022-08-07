@@ -1,6 +1,6 @@
   # Olá, eu sou o Thiago Zardo
   ## Bem vindo ao meu GitHub!
-  <img align="right" src="https://user-images.githubusercontent.com/66880417/183272028-0526297a-3b09-446f-856d-be385027b8de.png" width="400px" />
+  <img align="right" src="https://user-images.githubusercontent.com/66880417/183272429-3f59b0bb-1c2a-4a88-8fd1-d40a6f3cf512.png" width="400px" />
 
 <div class="container">
   <a href="https://github.com/thiagozardo">
