@@ -1,10 +1,11 @@
-<h1>Olá, eu sou o Thiago Jarilho Zardo</h1>
-<h2> Bem vindo ao meu GitHub! <h2>
+  # Olá, eu sou o Thiago Zardo
+  ## Bem vindo ao meu GitHub!
+  <img align="right" src="https://user-images.githubusercontent.com/66880417/183272028-0526297a-3b09-446f-856d-be385027b8de.png" width="400px" />
 
-<div align="center" class="container">
+<div class="container">
   <a href="https://github.com/thiagozardo">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagozardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagozardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h4>👨‍💻 Desenvolvedor FullStack em formação</h4>
