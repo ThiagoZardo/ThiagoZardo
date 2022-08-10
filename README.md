@@ -116,6 +116,7 @@
     <a href="https://github.com/ThiagoZardo/project-stranger-things-front">Stranger Things Front-End</a> </br>
     <a href="https://github.com/ThiagoZardo/project-stranger-things-back">Stranger Things Back-End</a> </br>
     <a href="https://github.com/ThiagoZardo/project-trybesmith">TrybeSmith</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-trybers-and-dragons">Trybers and Dragons</a> </br>
   </div>
  
  <br>
