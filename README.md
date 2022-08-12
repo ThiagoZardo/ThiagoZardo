@@ -88,10 +88,14 @@
   <div>
     <h3>Projetos Fundamentos</h3>
     <a href="https://github.com/ThiagoZardo/project-lessons-learned">Lessons Learded</a> <br>
+    <a href="https://github.com/ThiagoZardo/project-playground-functions">Playground Functions</a> <br>
     <a href="https://github.com/ThiagoZardo/projeto-pixel-art">Pixel Art</a> </br>
     <a href="https://github.com/ThiagoZardo/projeto-to-do-list">Todo List</a> </br>
-    <a href="https://github.com/ThiagoZardo/projeto-zoo-functions">Zoo Functions</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-mistery-letter">Mistery Letter</a> <br>
+    <a href="https://github.com/ThiagoZardo/project-meme-generator">Meme Generator</a> <br>
+    <a href="https://github.com/ThiagoZardo/project-color-guess">Color Guess</a> <br>    
     <a href="https://github.com/ThiagoZardo/projeto-testes-unitarios">Testes Unitários</a> </br>
+    <a href="https://github.com/ThiagoZardo/projeto-zoo-functions">Zoo Functions</a> </br>
     <a href="https://github.com/ThiagoZardo/shopping_cart">Shopping Cart</a> </br>
   </div>
  
