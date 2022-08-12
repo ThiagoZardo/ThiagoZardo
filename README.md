@@ -66,7 +66,7 @@
     <img align="center" alt="Thiago-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
     
   <a href="https://docs.docker.com/">
-    <img align="center" alt="Thiago-Docker" src="[https://user-images.githubusercontent.com/66880417/184454774-460c99c3-a9e9-4edd-a679-91d2030b8f6d.png](https://user-images.githubusercontent.com/66880417/184454774-460c99c3-a9e9-4edd-a679-91d2030b8f6d.png) /></a>
+    <img align="center" alt="Thiago-Docker" src="https://user-images.githubusercontent.com/66880417/184454774-460c99c3-a9e9-4edd-a679-91d2030b8f6d.png" /></a>
     
   <a href="https://nodejs.org/en/">
     <img align="center" alt="Thiago-Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>  
