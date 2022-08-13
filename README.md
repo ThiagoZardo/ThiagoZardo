@@ -111,6 +111,7 @@
     <a href="https://github.com/ThiagoZardo/project-trybe-wallet">Trybe Wallet</a> </br>
     <a href="https://github.com/ThiagoZardo/project-trivia">Jogo da Trivia</a> </br>
     <a href="https://github.com/ThiagoZardo/project-starwars-planets-search">Star Wars Planet Filters</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-recipes-app">Recipes App</a> </br>
   </div>
 
   <div>
