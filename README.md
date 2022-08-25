@@ -126,6 +126,7 @@
     <a href="https://github.com/ThiagoZardo/project-stranger-things-back">Stranger Things Back-End</a> </br>
     <a href="https://github.com/ThiagoZardo/project-trybesmith">TrybeSmith</a> </br>
     <a href="https://github.com/ThiagoZardo/project-trybers-and-dragons">Trybers and Dragons</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-tfc"> Trybe Futebol Clube</a> </br>
   </div>
  
  <br>
