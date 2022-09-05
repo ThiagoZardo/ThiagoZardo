@@ -76,6 +76,9 @@
   
   <a href="https://www.mysql.com/">
     <img align="center" alt="Thiago-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    
+  <a href="https://www.mongodb.com/docs/">
+    <img align="center" alt="Thiago-MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   
   <a href="https://sequelize.org/">
     <img align="center" alt="Thiago-Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /></a>
