@@ -135,6 +135,15 @@
     <a href="https://github.com/ThiagoZardo/project-tfc"> Trybe Futebol Clube</a> </br>
     <a href="https://github.com/ThiagoZardo/project-commerce"> Commerce </a> </br>
   </div>
+  
+  <div>
+    <h3>Projetos Ciencias da Computação</h3>
+    <a href="https://github.com/ThiagoZardo/project-job-insights">Job insights</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-inventory-report">Inventory report</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-tech-news">Tech-news</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-algorithms">Algorithms</a> </br>
+    <a href="https://github.com/ThiagoZardo/project-ting">Trybe Is Not Google</a> </br>
+  </div>
  
  <br>
  <h3>Midias Sociais</h3>
