@@ -58,6 +58,9 @@
   
   <a href="https://reactjs.org/">
     <img align="center" alt="Thiago-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+
+  <a href="https://vuejs.org/">
+    <img align="center" alt="Thiago-Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
   
   <a href="https://reactnative.dev/">
     <img align="center" alt="Thiago-React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
