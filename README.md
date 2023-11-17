@@ -12,7 +12,6 @@
 <h4>👨‍🎓 Estudo desenvolvimento web na Trybe.
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
 <h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
-<h4><a href="https://thiagozardo.github.io/">🖥️ Meu portfolio</a>(em desenvolvimento)</h4>
   
 <div style="display: inline_block"><br>
   <h4>👨🏻‍💻 Skills</h4>
