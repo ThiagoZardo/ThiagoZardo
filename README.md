@@ -8,8 +8,7 @@
   <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<h4>👨‍💻 Desenvolvedor Web FullStack</h4>
-<h4>👨‍🎓 Estudo desenvolvimento web na Trybe.
+<h4>👨‍💻 Desenvolvedor Web e Mobile FullStack</h4>
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
 <h4>📧 Ou pelo e-mail: thiago.artevisual@gmail.com </h4>  
   
