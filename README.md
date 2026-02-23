@@ -1,12 +1,6 @@
   # Olá, eu sou o Thiago Zardo
   ## Bem vindo ao meu GitHub!
   <img align="right" src="https://user-images.githubusercontent.com/66880417/183272429-3f59b0bb-1c2a-4a88-8fd1-d40a6f3cf512.png" width="300px" />
-
-<div class="container">
-  <a href="https://github.com/thiagozardo">
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagozardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagozardo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <h4>👨‍💻 Desenvolvedor Web e Mobile FullStack</h4>
 <h4>📱 Entre em contato comigo pelo número (13) 98877-0538 <h4>
