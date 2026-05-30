@@ -45,12 +45,6 @@ Meu principal projeto público hoje é o portfolio profissional:
 
 Também mantenho repositórios de estudo e prática em frontend, backend, testes, banco de dados e ciência da computação. Eles ajudam a mostrar minha base técnica, mas não substituem cases reais de produto.
 
-Próximos itens interessantes para adicionar aqui:
-
-- [adicione projeto em destaque com escopo real]
-- [adicione estudo de caso com problema, solução e resultado]
-- [adicione repositório autoral com README, screenshots e deploy]
-
 ## Contato
 
 - Portfolio: [thiagozardo.github.io](https://thiagozardo.github.io)
