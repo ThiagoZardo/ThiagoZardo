@@ -37,17 +37,9 @@ Tenho interesse especial por soluções que conectam tecnologia a resultado prá
 - Sistemas sob medida para operação e gestão
 - Modernização e manutenção de bases existentes
 
-## Portfolio e repositórios
-
-Meu principal projeto público hoje é o portfolio profissional:
-
-- [thiagozardo.github.io](https://thiagozardo.github.io) — portfolio bilíngue para apresentar serviços, experiência, stack e canais de contato.
-
-Também mantenho repositórios de estudo e prática em frontend, backend, testes, banco de dados e ciência da computação. Eles ajudam a mostrar minha base técnica, mas não substituem cases reais de produto.
 
 ## Contato
 
-- Portfolio: [thiagozardo.github.io](https://thiagozardo.github.io)
 - LinkedIn: [thiago-jarilho-zardo](https://www.linkedin.com/in/thiago-jarilho-zardo/)
 - E-mail: [tzardo.developer@gmail.com](mailto:tzardo.developer@gmail.com)
 
