@@ -4,7 +4,7 @@
 
 Crio soluções digitais com foco em produto, performance e operação: sistemas web, aplicativos mobile, dashboards, integrações com APIs e automações para reduzir trabalho manual.
 
-[Portfolio](https://thiagozardo.github.io) · [LinkedIn](https://www.linkedin.com/in/thiago-jarilho-zardo/) · [E-mail](mailto:tzardo.developer@gmail.com)
+· [LinkedIn](https://www.linkedin.com/in/thiago-jarilho-zardo/) · [E-mail](mailto:tzardo.developer@gmail.com)
 
 ---
 
